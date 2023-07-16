@@ -2,5 +2,5 @@
 
 # Comments:
 # 1. Input files must me in the same folder as "sort.c"
-# 2. Print function and main functions were modified to facilitate debuggig
+# 2. Print function and main function were modified to facilitate debuggig
  
